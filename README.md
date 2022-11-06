@@ -10,7 +10,7 @@
 ### Total and average fares for different city types:
     As pictured below, the web page contains a section on the left side that contains a place for the user to filter the table on the right side using up to 5 different filters. The table will update whenever the user enters any a value into any of the 5 search criteria and presses 'Enter' on their keyboard. The javascript program will then take in the user inputted value to filter the table on the right to only show the sightings that match their search criteria. The user does not need to enter all 5 criteria to search.
     
-![](/Static/Images/search.png
+![](/Static/Images/search.png)
 
 ## Summary
     The new design has some advantages in letting the user search with multiple filters at once, but it also has some drawbacks and places it could be improved on.
